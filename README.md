@@ -64,5 +64,5 @@
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/和輝-恒松-2834723a5)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazuki-tsunematsu)
 [![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?logo=zenn&logoColor=white)](https://zenn.dev/ktsu)
