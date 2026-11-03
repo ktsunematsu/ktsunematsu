@@ -46,6 +46,10 @@
 | [gcc2gc](https://github.com/ktsunematsu/gcc2gc) | PDF のごみ収集カレンダーを OCR・画像処理で読み取り、iCal 形式に変換して Google カレンダーへ取り込み | Python, OCR, OpenCV |
 | [img2tanka](https://github.com/ktsunematsu/img2tanka) | 写真から生成AIで短歌を生成する Web アプリ（[解説記事](https://zenn.dev/sre_holdings/articles/47ca62f0aec61e)） | TypeScript, React, Vite, Tailwind CSS |
 
+## 📄 Publications
+
+- **K. Tsunematsu**, J. Effendi, S. Sakti, S. Nakamura, "[Neural Speech Completion](https://www.isca-archive.org/interspeech_2020/tsunematsu20_interspeech.html)," *Proc. Interspeech 2020*, pp. 2742–2746. [doi:10.21437/Interspeech.2020-2110](https://doi.org/10.21437/Interspeech.2020-2110)
+
 ## 📝 Writing & Talks
 
 - 📰 Zenn：[GitHub Copilotの基本を理解する：プロンプト・リソース・ツールで実現する快適開発](https://zenn.dev/sre_holdings/articles/6056aaa8c2fae7)（2025/12・SRE Holdings Advent Calendar 2025）
